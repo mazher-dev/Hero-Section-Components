@@ -2,7 +2,6 @@
 
 A repository containing a customizable Hero Section for showcasing key content or a call-to-action. Designed with responsiveness and modern aesthetics in mind.
 
-Check out the live site here: https://hero-section-components.netlify.app/
 
 ## Features
 
