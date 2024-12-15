@@ -1,4 +1,4 @@
-# Hero Section Components
+# UiHive Hero Section Components
 
 A repository containing a customizable Hero Section for showcasing key content or a call-to-action. Designed with responsiveness and modern aesthetics in mind.
 
